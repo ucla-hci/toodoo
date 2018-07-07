@@ -1,4 +1,4 @@
-# toodoo
+# TooDoo
 TooDoo is a to do list web app to demonstrate how to prototype interactive systems using HTML/CSS and JavaScript
 
 ## Usage
