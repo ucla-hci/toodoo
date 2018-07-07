@@ -1,0 +1,13 @@
+items:
+  - 
+    note: 'Get milk'
+    done: true
+  -
+    note: 'Call mom'
+    done: false
+  -
+    note: 'Fix bike flat tire'
+    done: true
+  -
+    note: 'Return book to Amazon'
+    done: false
